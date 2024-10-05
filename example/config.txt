@@ -1,0 +1,2 @@
+Prefix plugins/Wald/example/
+Plugin Wald inputfile regionmatrix.rds outputfile wald.csv
